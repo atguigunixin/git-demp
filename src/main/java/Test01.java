@@ -4,6 +4,8 @@ public class Test01 {
         System.out.println("倪鑫");
         System.out.println("倪鑫");
         System.out.println("倪鑫");
+        System.out.println("倪鑫");
+        System.out.println("倪鑫");
     }
 
 
